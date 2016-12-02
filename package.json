@@ -1,5 +1,5 @@
 {
-  "name": "simple-service-manager",
+  "name": "service-manager",
   "version": "1.1.0",
   "description": "A simple service manager",
   "main": "lib/service-manager.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aerisweather/service-manager.git"
+    "url": "git+https://github.com/stefanwalther/service-manager.git"
   },
   "keywords": [
     "service",
@@ -17,9 +17,9 @@
   "author": "Edan Schwartz <edanschwartz@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aerisweather/service-manager/issues"
+    "url": "https://github.com/stefanwalther/service-manager/issues"
   },
-  "homepage": "https://github.com/aerisweather/service-manager#readme",
+  "homepage": "https://github.com/stefanwalther/service-manager#readme",
   "engines": {
     "node": ">=4.2.1"
   },
